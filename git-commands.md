@@ -7,3 +7,5 @@ This file will contain the git commands.
 >> git config --list : View Config Values
 >> git status : Lists which files are modified and not yet stage
 >> git add : Stages files for commit
+
+>> git commit -m "commit message" : Save staged changes with a message explaining what you changed
