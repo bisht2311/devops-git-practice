@@ -9,3 +9,5 @@ This file will contain the git commands.
 >> git add : Stages files for commit
 
 >> git commit -m "commit message" : Save staged changes with a message explaining what you changed
+
+>> git log : Shows the history of commits in your repository who changed what,when,and why                                           It  also shows Commit hash,Author name & email,Date,Commit message
