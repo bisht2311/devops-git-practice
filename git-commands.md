@@ -13,3 +13,11 @@ This file will contain the git commands.
 >> git log : Shows the history of commits in your repository who changed what,when,and why                                           It  also shows Commit hash,Author name & email,Date,Commit message
 
 >> git branch : Tell on which branch the things are being performed
+
+
+#BRANCHES
+
+>> git branch : tell on whih branch you are currently performing the things.
+>> git branch <branch-name> : craete the new branch.
+>> git switch <branch-name> : switchs to the mentioned branch.
+>> git chechout -b <branch-name> : switched to the mentioned branch and also restore files too. 
