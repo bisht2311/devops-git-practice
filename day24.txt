@@ -1,4 +1,5 @@
 This is a commit made on feature-login
 Login Feature added | f-l
 Added MFA | f-l
-Main Layout consist of Login and Signup
+This commit is from ffeature-signup branch
+user will signup using their email&password
