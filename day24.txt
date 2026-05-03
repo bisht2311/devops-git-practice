@@ -9,3 +9,6 @@ Profile will contain: Username, User Picture, User Bio, User open for work or no
 This commit is from feature-settings branch
 Settings: Enable or Disable feature toggle, hide public viewership, ghost mode, share feature
 Added the mode feature
+This is coming from feature-hotfix branch
+Team is engaged over the Hotfix for Axios Library
+>>>>>>> 1440874 (Update: Hotfix in progress)
