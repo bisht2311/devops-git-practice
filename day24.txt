@@ -4,3 +4,5 @@ Added MFA | f-l
 This commit is from ffeature-signup branch
 user will signup using their email&password
 Moving main head 1 place
+This commit is from feature-profile branch
+Profile will contain: Username, User Picture, User Bio, User open for work or not banner
